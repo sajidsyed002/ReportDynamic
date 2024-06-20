@@ -1,0 +1,3 @@
+creditBill,pdf|FUND_NAME,Red,10,Arial,8;MANAGER,Black,15,Calibri,7;STRATEGY,Purple,10,Italic,8;GEO_FOCUS,Pink,15,Micro,7;
+BankStatement,csv|FUND_NAME,Red,10,Arial,8;FUND_INCEPTION,Yellow,20,Bold,8;MANAGER_FOUNDED,Red,20,MicroSans,7;
+Finance,xls|MANAGER,Black,15,Calibri,7;MANAGER_CONTACT,Blue,20,Sans,8;GEO_FOCUS,Pink,15,Micro,7;FUND_INCEPTION,Yellow,20,Bold,8;
